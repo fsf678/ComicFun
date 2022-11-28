@@ -5,3 +5,6 @@
    <img src="https://img.shields.io/badge/Python-3.4+-blue.svg" ></img>
    <img src="https://img.shields.io/badge/Flask-2.1+-yellow.svg" ></img>
 </div>
+
+## 郑重声明
+> 本系统开源仅仅是为了新手学习开发漫画网站为目的，不提供漫画本体，所以请不要在没有相关运营资质情况下搭建外网进行运营，万不可触犯法律底线。
