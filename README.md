@@ -3,4 +3,5 @@
    <strong>更好的漫画系统——ComicFun！</strong><br>
    <img src="https://img.shields.io/badge/license-GPL v%203.0-green.svg" ></img>
    <img src="https://img.shields.io/badge/Python-3.4+-blue.svg" ></img>
+   <img src="https://img.shields.io/badge/Flask-2.1+-yellow.svg" ></img>
 </div>
