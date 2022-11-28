@@ -1,4 +1,4 @@
 <div  align="center">  
    <img src="https://voidtech.cn/i/2022/11/28/p8vlqt.png" width = "250" height = "250" align=center />
-   <p sytle="font-size: 40px">ComicFun(CFun) Ver0.1</p>
+   <font size=1>字体大小size=1</font>
 </div>
