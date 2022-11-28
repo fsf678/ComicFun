@@ -1,1 +1,1 @@
-<img src="https://voidtech.cn/i/2022/11/28/p8vlqt.png">
+<img src="https://voidtech.cn/i/2022/11/28/p8vlqt.png" sytle="width: 25%;height: 25%">
