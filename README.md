@@ -17,4 +17,4 @@
 - 打包好后的.exe文件可在 100% 的 Windows 7、Windows Server 2012 及以上的家用电脑、服务器上直接运行，无需Python环境
 
 ## 安装教程
-#### Step.1:
+### Step.1:
