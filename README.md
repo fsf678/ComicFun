@@ -4,8 +4,10 @@
 
 <h1 align="center">Comic Fun (On Flask!!)</h1>
 
-[![Python 3.4+](https://img.shields.io/badge/Visual%20Studio-Marketplace-007acc.svg?style=flat-square)]
-[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/dsy4567.4399-on-vscode.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=dsy4567.4399-on-vscode)
+[Python 3.4+](https://img.shields.io/badge/Python-3.4+-007acc.svg?style=flat-square)
+  
+[Flask Version](https://img.shields.io/badge/Flask-2.1+-007acc.svg?style=flat-square)
+    
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/dsy4567.4399-on-vscode.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=dsy4567.4399-on-vscode)
 [![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/stars/dsy4567.4399-on-vscode.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=dsy4567.4399-on-vscode)
 [![GitHub Stars](https://img.shields.io/github/stars/dsy4567/4399-on-vscode.svg?style=flat-square)](https://github.com/dsy4567/4399-on-vscode)
