@@ -34,11 +34,13 @@ ComicFun 是一个牛逼他妈给牛逼开门, 牛逼到家的 100%Free的 漫�
 
 # 🤠 功能 for Admin
 
-- 🪄 上架
+- ⚒️ 修改网站 高度扩展
+- 🪄 上架/修改漫画
+- 🛹 修改用户账号
 - 😅 拉黑指定用户(通过IP/COOKIE/ID等)
 - 🤑 收赞助
 
-# 🔨 使用方法
+# 🔧 安装方法
 
 按下 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> , 输入 `4399 on VSCode`
 开始探索
@@ -46,39 +48,16 @@ ComicFun 是一个牛逼他妈给牛逼开门, 牛逼到家的 100%Free的 漫�
 # ⚠️ 注意事项
 
 -   **未登录/国外 IP (比如使用 GitHub CodeSpaces 或梯子)可能会出现许多奇奇怪怪的
-    问题**
--   **请不要用这个扩展玩 u3d 或新的 flash 游戏, 此扩展不会支持这类游戏**
--   VSCode 版本为 1.71.0 以下的用户需要
-    [替换 ffmpeg](https://github.com/nondanee/vsc-netease-music#requirement) 才
-    能使少数游戏有声音
--   如果游戏显示方向不正确, 请尽可能让游戏界面变宽(比如取消拆分编辑器)
-
-# 🍪 获取 cookie
-
-cookie 用于登录 h5 页游以及使用更多需要登录的功能
-
-请使用基于 chromium 内核的浏览器登录 4399, 然后在
-[ptlogin.4399.com](https://ptlogin.4399.com) 下打开开发者工具(按 F12), 在控制台
-(console)下输入以下代码即可(cookie 将复制到剪贴板)
-
-```javascript
-copy(document.cookie);
-```
-
-> 请确保 cookie 里包含 `Pauth` 值
 
 # 🤝 特别感谢
 
-这个扩展依赖的, 超棒的项目
-
--   [axios](https://github.com/axios/axios)
--   [cheerio](https://github.com/cheeriojs/cheerio)
--   [ruffle](https://github.com/ruffle-rs/ruffle)
+-   [Flask](https://github.com/pallets/flask)
+-   [Mdui](https://github.com/zdhxiong/mdui)
 
 给我灵感的项目
 
--   [flash collector](https://github.com/cnotech/flash-collector)
--   [vsc netease music](https://github.com/nondanee/vsc-netease-music)
+-   [cartoon-cat](https://github.com/miaoerduo/cartoon-cat)
+-   [U17](https://github.com/spicyShrimp/U17)
 
 # ⚖️ 许可证
 
