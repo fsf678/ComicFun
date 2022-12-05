@@ -3,14 +3,7 @@
 <img width="128" src="https://github.com/Flysmallfish/ComicFun/blob/main/favicon.png" alt="logo" title="logo" />
 
 <h1 align="center">Comic Fun (It work on flask!!)</h1>
-
-[Python 3.4+](https://img.shields.io/badge/Python-3.4+-007acc.svg?style=flat-square)
-  
-[Flask Version](https://img.shields.io/badge/Flask-2.1+-007acc.svg?style=flat-square)
-    
-[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/dsy4567.4399-on-vscode.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=dsy4567.4399-on-vscode)
-[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/stars/dsy4567.4399-on-vscode.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=dsy4567.4399-on-vscode)
-[![GitHub Stars](https://img.shields.io/github/stars/dsy4567/4399-on-vscode.svg?style=flat-square)](https://github.com/dsy4567/4399-on-vscode)
+![](https://img.shields.io/badge/Python-3.4%2B-9cf?style=flat-square)
 
 <img src="https://dsy4567.github.io/4-o-v.gif" alt="演示" title="演示" />
 </div>
