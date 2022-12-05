@@ -3,8 +3,10 @@
 <img width="128" src="https://github.com/Flysmallfish/ComicFun/blob/main/favicon.png" alt="logo" title="logo" />
 
 <h1 align="center">Comic Fun (It work on flask!!)</h1>
-![](https://img.shields.io/badge/Python-3.4%2B-9cf?style=flat-square)
+  
+![Python3.4+](https://img.shields.io/badge/Python-3.4+%2B-9cf?style=flat-square)
 
+  
 <img src="https://dsy4567.github.io/4-o-v.gif" alt="演示" title="演示" />
 </div>
 
