@@ -2,7 +2,7 @@
 
 <img width="128" src="https://github.com/Flysmallfish/ComicFun/blob/main/favicon.png" alt="logo" title="logo" />
 
-<h1 align="center">4399 on VSCode</h1>
+<h1 align="center">Comic Fun (On Flask!!)</h1>
 
 [![Visual Studio Marketplace](https://img.shields.io/badge/Visual%20Studio-Marketplace-007acc.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=dsy4567.4399-on-vscode)
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/dsy4567.4399-on-vscode.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=dsy4567.4399-on-vscode)
@@ -16,7 +16,7 @@
 > 抵制不良游戏，拒绝盗版游戏，注意自我保护，谨防受骗上当，适度游戏益脑，沉迷游戏
 > 伤身，合理安排时间，享受健康生活
 
-> 如果觉得好用, 请不要吝啬[star](https://github.com/dsy4567/4399-on-vscode)
+> 如果觉得好, 请不要吝啬[star](https://github.com/Flysmallfish/ComicFun)
 
 # ✨ 简介
 
