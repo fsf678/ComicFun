@@ -6,6 +6,7 @@
   
 ![Python3.4+](https://img.shields.io/badge/Python-3.4%2B-9cf?style=flat-square)
 ![Flask2.1+](https://img.shields.io/badge/Flask-2.1%2B-yellow?style=flat-square)
+![MDUI](https://img.shields.io/badge/mdui-1.0.2-green?style=flat-square)
   
 <img src="https://dsy4567.github.io/4-o-v.gif" alt="演示" title="演示" />
 </div>
