@@ -15,7 +15,7 @@
 <img src="https://dsy4567.github.io/4-o-v.gif" alt="演示" title="演示" />
 </div>
 
-> 在外网运营需遵守当地法律
+> 在外网运营需遵守当地法律 运营后请将您基于ComicFun的网站名称改成其他名字, 而非ComicFun!
 
 # ✨ 简介
 
@@ -34,7 +34,7 @@ ComicFun 是一个牛逼他妈给牛逼开门, 牛逼到家的 100%Free的 漫�
 
 # 🤠 功能 for Admin
 
-- 
+- 🪄 上架
 - 😅 拉黑指定用户(通过IP/COOKIE/ID等)
 - 🤑 收赞助
 
@@ -52,14 +52,6 @@ ComicFun 是一个牛逼他妈给牛逼开门, 牛逼到家的 100%Free的 漫�
     [替换 ffmpeg](https://github.com/nondanee/vsc-netease-music#requirement) 才
     能使少数游戏有声音
 -   如果游戏显示方向不正确, 请尽可能让游戏界面变宽(比如取消拆分编辑器)
-
-# 📢 已知问题
-
--   Flash 游戏可能无法在 GitHub CodeSpaces 上玩
--   不能在任何一个游戏未完全加载完成前多开另一个游戏(页游不受限制)
--   如果焦点在游戏界面上, 大多数 VSCode 内的快捷键可能会失效
--   部分游戏半天不能完成加载, 或黑白屏(如果您遇到此问题, 欢迎提交 issue)
--   游戏无法锁定鼠标(尤其是射击类游戏)
 
 # 🍪 获取 cookie
 
