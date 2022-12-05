@@ -2,7 +2,7 @@
 
 <img width="128" src="https://github.com/Flysmallfish/ComicFun/blob/main/favicon.png" alt="logo" title="logo" />
 
-<h1 align="center">Comic Fun (It work on flask)</h1>
+<h1 align="center">Comic Fun (It work on flask!!)</h1>
 
 [Python 3.4+](https://img.shields.io/badge/Python-3.4+-007acc.svg?style=flat-square)
   
@@ -21,18 +21,15 @@
 
     ComicFun 是一个牛逼他妈给牛逼开门, 牛逼到家的 100%Free的 漫画平台, 它能在几乎所有平台上 快速构建 一个漫画网站, 并且可以高度扩展 , 能让您的用户免费看您上传的漫画,您作为这个网站的管理者超酷的！
 
-# 👍 功能
+# 👍 功能 for Player
 
--   🖊 登录账号
--   🎮 玩 h5 页游(需要登录)和普通的小游戏(h5 和旧 flash 游戏)
--   🔍 搜索游戏
--   ✨ 推荐游戏
--   👆 手动输入游戏 id
--   🕒 历史记录
--   🔧 自定义标题(摸鱼必备)
--   💬 逛群组
--   ❔ 随机游戏
--   📚 注入自定义 HTML 代码片段
+-   😎 看漫画
+-   😍 举报漫画
+-   🔍 搜索漫画
+-   ✨ 推荐漫画
+-   👆 手动输入漫画 id
+-   ~🕒 历史记录~(你猜我做没)
+-   ❔ 随机漫画
 
 # 🔨 使用方法
 
@@ -97,4 +94,4 @@ copy(document.cookie);
 -   https://github.com/dsy4567/4399-on-vscode/blob/master/LICENSE-ANTI996
 -   https://github.com/dsy4567/4399-on-vscode/blob/master/LICENSE-MFAIL
 
-游戏由 [4399](http://www.4399.com) 提供, 游戏的版权归各自游戏作者所有
+漫画图片由 基于ComicFun的管理者 提供, 漫画的版权归各自漫画版权所有者所有
